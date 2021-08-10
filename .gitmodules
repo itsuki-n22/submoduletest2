@@ -1,0 +1,6 @@
+[submodule "backy"]
+	path = backy
+	url = git@github.com:itsuki-n22/rails_api_prc.git
+[submodule "kk"]
+	path = kk
+	url = git@github.com:itsuki-n22/vuetify-ts-sample.git
